@@ -36,13 +36,16 @@ Subtle influence: the calm strategist > loud protagonist.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manil-k&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manil-k&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=Manil-k&theme=github-dark" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manil-k&show_icons=true&theme=github_dark" />
+</p>
+
 
 ---
 
@@ -56,8 +59,8 @@ Subtle influence: the calm strategist > loud protagonist.
 
 ### 🔗 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/manil-kumar-0971123b
+- Email: eternal0emerald@proton.me
 
 ---
 
