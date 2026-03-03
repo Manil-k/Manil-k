@@ -60,7 +60,7 @@ Subtle influence: the calm strategist > loud protagonist.
 ### 🔗 Connect
 
 - LinkedIn: https://linkedin.com/in/manil-kumar
-- Email: kumarmanil.mk@outlook.com
+- Email: manil.kumar.iitd@gmail.com
 
 ---
 
