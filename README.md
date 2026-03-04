@@ -12,15 +12,16 @@ Currently sharpening problem-solving and thinking through Python.
 
 Stack:
 - Python
-- HTML
-- CSS
-- Excel
+- C++
+- MarkDown
+- LaTeX
 
 ---
 
 ### ⚙️ Current Focus
 
 - Writing clean Python
+- Improving knowledge of C++ Fundamentals
 - Building small but complete projects
 - Learning to think like an engineer, not just code
 
